@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### Configuración con la API key ###
+src/main/resources/config.properties
